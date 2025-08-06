@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "https://diana-catana.github.io/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Diana Catana"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -12,18 +12,18 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "img/profile.png"
-  author = "Chris Turner"
-  description = "Describe your website"
+  author = "Diana Catana"
+  description = "This is my personal website"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
+  Github        = "diana-catana"
+  Email         = "dia.catana@gmail.com"
   Twitter       = "username"
-  LinkedIn      = "username"
+  LinkedIn      = "diana-catana-139761272"
   Stackoverflow = "username"
   Medium        = "username"
   Telegram      = "username"
