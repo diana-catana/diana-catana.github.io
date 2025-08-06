@@ -45,3 +45,7 @@ theme = "hugo-sustain"
   identifier = "resume"
   weight = 300
   url = "/resume/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
